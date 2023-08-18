@@ -24,7 +24,7 @@ I implemented design upgrades to the user interface of the site. Adding colors w
 
 Here's a walkthrough of implemented features:
 
-<video src='https://imgur.com/a/qxz2uPU' title='Video Walkthrough' width='1000' alt='Video Walkthrough' />
+<video src='https://imgur.com/a/qxz2uPU.gif' title='Video Walkthrough' width='1000' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
