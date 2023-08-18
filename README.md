@@ -24,7 +24,7 @@ I implemented design upgrades to the user interface of the site. Adding colors w
 
 Here's a walkthrough of implemented features:
 
-![Prework for codepath](https://imgur.com/a/qxz2uPU.gif)
+![Prework for codepath](https://imgur.com/gallery/qxz2uPU)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
