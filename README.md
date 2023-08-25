@@ -23,8 +23,8 @@ I implemented design upgrades to the user interface of the site. Adding colors w
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![](https://github.com/TanushGo/web102_prework/blob/main/assets/Github_Video.gif)
 
-![Prework for codepath]( https://imgur.com/gallery/qxz2uPU.gif )
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
